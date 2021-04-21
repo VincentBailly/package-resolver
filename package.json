@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "respository": "VincentBailly/package-resolver",
+  "author": "vincent.bailly@microsoft.com",
+  "engines": "node": ">=10",
   "license": "MIT"
 }
