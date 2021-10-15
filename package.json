@@ -1,6 +1,6 @@
 {
   "name": "package-resolver",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Resolve the location of a package.",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,6 @@
   },
   "respository": "VincentBailly/package-resolver",
   "author": "vincent.bailly@microsoft.com",
-  "engines": "node": ">=10",
+  "engines": { "node": ">=10" },
   "license": "MIT"
 }
